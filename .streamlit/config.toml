@@ -1,0 +1,7 @@
+[theme]
+# light theme reads better on projectors
+base = "light"
+primaryColor = "#eb6834"
+
+[browser]
+gatherUsageStats = false
